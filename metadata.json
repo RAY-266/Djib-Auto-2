@@ -1,0 +1,7 @@
+{
+  "name": "Marketplace Djibouti - Auto Parts",
+  "description": "A high-end marketplace for car parts in Djibouti with AI-powered search and store discovery using Google Maps grounding.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
